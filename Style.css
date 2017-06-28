@@ -1,0 +1,16 @@
+h1 {
+  color: #950A7E;
+  font-family: timesnewroman;
+  font-size: 65px;
+}
+
+.secondP {
+  color: white;
+}
+
+#firstp {
+  color: white;
+}
+
+body {
+    background-image: url("wow.jpg");
